@@ -14,3 +14,8 @@ ___
 ## Используемые библиотеки
 
 *Pandas, Numpy, Matplotlib, Seaborn, SciPy, Plotly*
+
+___
+### Статус проекта: 
+
+*Завершён*

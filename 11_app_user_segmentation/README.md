@@ -16,3 +16,8 @@ ___
 ## Используемые библиотеки
 
 *Pandas, Numpy, Matplotlib, Seaborn, Re, Statsmodels*
+
+___
+### Статус проекта: 
+
+*Завершён*

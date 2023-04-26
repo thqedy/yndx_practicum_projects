@@ -17,3 +17,8 @@ ___
 ## Используемые библиотеки
 
 *Pandas, Numpy, Matplotlib, Seaborn, Plotly, Re, Folium, Squarify*
+
+___
+### Статус проекта: 
+
+*Завершён*
